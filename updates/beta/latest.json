@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Primeiro teste do sistema de atualiza\u00e7\u00e3o interno via GitHub Releases.",
-    "version": "0.9.0-beta.36",
-    "minimum_version": "0.9.0-beta.35",
-    "published_at": "2026-09-15T03:30:49+00:00",
+    "release_notes": "Teste do sistema de atualiza\u00e7\u00e3o interno do Yomu Sekai.",
+    "version": "0.9.0-beta.38",
+    "minimum_version": "0.9.0-beta.37",
+    "published_at": "2026-09-15T03:47:25+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.0-beta.36-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.0-beta.36/YomuSekai-0.9.0-beta.36-Setup-x64.exe",
-      "sha256": "8094cebcc317d7e0443a32b13ff7c9cca84cc2319bd9792e5c206fc66bb138c5",
-      "size": 129660008
+      "filename": "YomuSekai-0.9.0-beta.38-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.0-beta.38/YomuSekai-0.9.0-beta.38-Setup-x64.exe",
+      "sha256": "3fed5bccb82575a424e732eec753fde8ddc90439572275a616134c822b5c924f",
+      "size": 129665539
     }
   },
   "key_id": "beta-2026-09",
-  "signature": "jxRcvhqhOh8FjkAeaR11TwgBPsVBeJwrF7PP7i+5JjOpHru1+YLcYgVLxQJ24LOKHYtRB5cfDKM1HxIifc4HBA=="
+  "signature": "WQkUaj4PEceFwXEOuaXgEVeUVWj4puLXqvdo2AZK9LRq1xUMpbCG3qCFulcshNA1cpbUVqMMstUTycxzIuQoBQ=="
 }

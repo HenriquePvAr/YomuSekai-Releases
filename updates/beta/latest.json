@@ -5,16 +5,16 @@
     "channel": "beta",
     "artifact_type": "windows-installer",
     "release_notes": "Teste do sistema de atualiza\u00e7\u00e3o interno do Yomu Sekai.",
-    "version": "0.9.0-beta.38",
-    "minimum_version": "0.9.0-beta.37",
-    "published_at": "2026-09-15T03:47:25+00:00",
+    "version": "0.9.0-beta.40",
+    "minimum_version": "0.9.0-beta.39",
+    "published_at": "2026-09-15T04:05:52+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.0-beta.38-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.0-beta.38/YomuSekai-0.9.0-beta.38-Setup-x64.exe",
-      "sha256": "3fed5bccb82575a424e732eec753fde8ddc90439572275a616134c822b5c924f",
-      "size": 129665539
+      "filename": "YomuSekai-0.9.0-beta.40-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.0-beta.40/YomuSekai-0.9.0-beta.40-Setup-x64.exe",
+      "sha256": "346c5a5a3d3951bd21bce934f1f13721ff5e67a6d3d2ca5de2c28067d1c31bed",
+      "size": 129678207
     }
   },
   "key_id": "beta-2026-09",
-  "signature": "WQkUaj4PEceFwXEOuaXgEVeUVWj4puLXqvdo2AZK9LRq1xUMpbCG3qCFulcshNA1cpbUVqMMstUTycxzIuQoBQ=="
+  "signature": "Ag+W0wM05w3LbDlxNVnmSVp9jCicsnQXOH4eA1nzjTqB08Asei4G+GRJAAlT2M9cY6bKa9+dLCLLx7I8cobFAg=="
 }

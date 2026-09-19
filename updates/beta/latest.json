@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Yomu Sekai 0.9.1-beta.4 \u2014 final candidate2 prerelease.",
-    "version": "0.9.1-beta.4",
+    "release_notes": "Yomu Sekai 0.9.1-beta.5 \u2014 adiciona o indicador EM BREVE em Scans; release para valida\u00e7\u00e3o do updater beta.4.",
+    "version": "0.9.1-beta.5",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-19T14:27:57+00:00",
+    "published_at": "2026-09-19T15:53:55+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.1-beta.4-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.4/YomuSekai-0.9.1-beta.4-Setup-x64.exe",
-      "sha256": "2d8a873f7ad79a967889ef676fd5f0a4edfc44a7c6ed9dd3d5a1736200cf9fe7",
-      "size": 129750193
+      "filename": "YomuSekai-0.9.1-beta.5-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.5/YomuSekai-0.9.1-beta.5-Setup-x64.exe",
+      "sha256": "c74b4803ce144f0ea6e551289ebf5075913bc98e9ae1d356e16dec8111058974",
+      "size": 129754590
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "UkPi+JRPDsk2XMPK6FHqUOPmEaCg302nyaDuYka/KFvyjB385fqCQzaoRfMmL1mrPXrUGAlyArgUOOHylYljCg=="
+  "signature": "Q3U4E/UwJ+oMMvVOEpXq0ol37ZJyiu4JJJLrsVGWFX2PMPQKy7PIfht9ldq+UigxjrTdPDAptbiGBfuGiIRLBw=="
 }

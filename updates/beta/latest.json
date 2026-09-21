@@ -4,10 +4,10 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "",
+    "release_notes": "Correcao do handoff do auto-updater com multiplos processos Yomu; WaitProcessIds em payload Base64 JSON estruturado; espera de todos os processos; timeout e payload invalido fail-closed; Scans EM TESTE; Comunidade EM BREVE; update fisico beta.8 para beta.9 sera validado separadamente.",
     "version": "0.9.1-beta.8",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-21T14:32:13+00:00",
+    "published_at": "2026-09-21T14:35:30+00:00",
     "package": {
       "filename": "YomuSekai-0.9.1-beta.8-Setup-x64.exe",
       "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.8/YomuSekai-0.9.1-beta.8-Setup-x64.exe",
@@ -16,5 +16,5 @@
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "cbUg72KRs4W/3a05JggI9nKE5Op0aYVcx8EeWMpWUglQKG6LGsbC3jocmunxRQBrRK1rKru2qFOD7ib1yoywCg=="
+  "signature": "6kl6qO4j2r1sfbRb+y85Db1yncgpc1BrMwFDztD33VyJcRh3CSN22wtMUxcEN/RApN9DVpqZh3xO3VwWpnJ6CQ=="
 }

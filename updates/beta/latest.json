@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Corre\u00e7\u00e3o robusta do handoff do auto-updater; transporte Base64 UTF-8 para os argumentos do helper PowerShell; logging antes do parse; falhas de parse/timeout fail-closed; espera dos processos Yomu antes do installer; Scans EM TESTE.",
-    "version": "0.9.1-beta.7",
+    "release_notes": "",
+    "version": "0.9.1-beta.8",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-21T03:34:26+00:00",
+    "published_at": "2026-09-21T14:32:13+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.1-beta.7-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.7/YomuSekai-0.9.1-beta.7-Setup-x64.exe",
-      "sha256": "a87dc19547789866cb494d51a3416f15295330e80ccf6dc8f5a5a9f6ef7011fb",
-      "size": 129753942
+      "filename": "YomuSekai-0.9.1-beta.8-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.8/YomuSekai-0.9.1-beta.8-Setup-x64.exe",
+      "sha256": "66c93845843e325c45b0317a96680745e172ec897154e12de4836a937be35db4",
+      "size": 129750452
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "G7HeruIrtKzYBHIiekvRhwA4WwUoQ1utvKDzIQuggaKvDiXdDC3RLXc6T6XhoPQ9/hU2slcDl/tvhEbI8yOgAQ=="
+  "signature": "cbUg72KRs4W/3a05JggI9nKE5Op0aYVcx8EeWMpWUglQKG6LGsbC3jocmunxRQBrRK1rKru2qFOD7ib1yoywCg=="
 }

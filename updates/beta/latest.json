@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Correcao do handoff do auto-updater com multiplos processos Yomu; WaitProcessIds em payload Base64 JSON estruturado; espera de todos os processos; timeout e payload invalido fail-closed; Scans EM TESTE; Comunidade EM BREVE; update fisico beta.8 para beta.9 sera validado separadamente.",
-    "version": "0.9.1-beta.8",
+    "release_notes": "Beta9 probe m\u00ednima para valida\u00e7\u00e3o f\u00edsica do updater corrigido; Scans BETA 9; Comunidade EM BREVE; updater/handoff id\u00eanticos \u00e0 beta8; teste f\u00edsico beta8 para beta9 ainda n\u00e3o executado.",
+    "version": "0.9.1-beta.9",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-21T14:35:30+00:00",
+    "published_at": "2026-09-21T15:20:19+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.1-beta.8-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.8/YomuSekai-0.9.1-beta.8-Setup-x64.exe",
-      "sha256": "66c93845843e325c45b0317a96680745e172ec897154e12de4836a937be35db4",
-      "size": 129750452
+      "filename": "YomuSekai-0.9.1-beta.9-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.9/YomuSekai-0.9.1-beta.9-Setup-x64.exe",
+      "sha256": "c30ea06c4fbfdaa3458a6766289ba2814208e8ac357a93e47d1eedf2d020a0e7",
+      "size": 129747293
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "6kl6qO4j2r1sfbRb+y85Db1yncgpc1BrMwFDztD33VyJcRh3CSN22wtMUxcEN/RApN9DVpqZh3xO3VwWpnJ6CQ=="
+  "signature": "vl7EatwyR3CdJWemJVj2T1Qvwri4wRjGzehq6P0qqxJ0+y4Q+GafzoqSlz3dYW8HF/3piMVyuoESBuaRi2d3Dw=="
 }

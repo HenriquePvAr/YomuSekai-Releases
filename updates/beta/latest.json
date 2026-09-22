@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Probe beta para valida\u00e7\u00e3o f\u00edsica do updater instrumentado da beta.10; marcador visual BETA 11; metadados de \u00edcone Windows melhorados, incluindo Programas e Recursos; diagn\u00f3sticos e robustez da beta.10 preservados. N\u00e3o declara resolu\u00e7\u00e3o do teste f\u00edsico beta.10-beta.11.",
-    "version": "0.9.1-beta.11",
+    "release_notes": "Beta.12: corre\u00e7\u00e3o determin\u00edstica do handoff de atualiza\u00e7\u00e3o e preserva\u00e7\u00e3o de diagn\u00f3sticos.",
+    "version": "0.9.1-beta.12",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-21T19:42:33+00:00",
+    "published_at": "2026-09-22T01:29:51+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.1-beta.11-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.11/YomuSekai-0.9.1-beta.11-Setup-x64.exe",
-      "sha256": "bec4f7be4aa3c65d6a5b6c8ecd1a436c8d50771ab32f0184f2d6f24f695dd99e",
-      "size": 129764748
+      "filename": "YomuSekai-0.9.1-beta.12-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.12/YomuSekai-0.9.1-beta.12-Setup-x64.exe",
+      "sha256": "c2faa88aab51c2ce31ab051440ba6c5ed085f26fd7fa33d709478824418f5e99",
+      "size": 129758549
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "rYJ/O0MZClrKrmZ+7Tlrm2WDO753XrnwBWQQLaZOIEn4ZO/tek4m+xD14SCWYcFSxnULjbL2zETVt4HrOZHiDg=="
+  "signature": "cYX7fYrId+UncL18pYCmLDE2z9z7xefIL0teL+dcc+/28BbkXNKNOZdCw2SBiQqA50MJ+yAr+vrp9S3QFBLgAA=="
 }

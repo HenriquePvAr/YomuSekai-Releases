@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Beta.13: probe minima de atualizacao fisica beta.12 para beta.13; comportamento do updater e shutdown permanece semanticamente igual a beta.12.",
-    "version": "0.9.1-beta.13",
+    "release_notes": "Sessao/login persistente entre reinicios; anuncios no host canonico yomusekai.com.br com redirect legado GitHub seguro; CSP corrigida; resolver Comix dinamico bounded (deadline/retry/progress) e dedup/filtro de response.body; correcao da exclusao de historico local; saida PDF/PNG/PSD. Limitacao conhecida: capitulos Comix muito grandes podem atingir o budget de resolucao e terminar com erro seguro especifico (nao e falha generica).",
+    "version": "0.9.1-beta.15",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-22T02:25:29+00:00",
+    "published_at": "2026-09-25T19:07:19+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.1-beta.13-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.13/YomuSekai-0.9.1-beta.13-Setup-x64.exe",
-      "sha256": "9ec9e11955d0f204b5de30bec475a40c36a246b21df91df00b409ae104f2c980",
-      "size": 129759915
+      "filename": "YomuSekai-0.9.1-beta.15-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.15/YomuSekai-0.9.1-beta.15-Setup-x64.exe",
+      "sha256": "bfe9b2d2b98b37796af7b77aee2e42590d44677ff45ad8b92d57609ad984e7a1",
+      "size": 205594825
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "5Yde8Z8ViAjYkIuHWHNKLzqetE5lUPzHxSxf00qTzbxwehDdnagettkh9CqZztbejvZYFdxS+HhF+h/7YOoPCw=="
+  "signature": "sG7CONOgXSoTtyPGZlAQM1hSXwFVo/t3GuSIfH9mc/EUXMnRE5WNZW/mX4d716zSMUjCij38cRzSPvspHp58Ag=="
 }

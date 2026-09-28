@@ -4,17 +4,17 @@
     "app_id": "tradutor-ia",
     "channel": "beta",
     "artifact_type": "windows-installer",
-    "release_notes": "Yomu Sekai 0.9.1-beta.17\n\n- Auth and session recovery hardening.\n- Review improvements and Professional PSD layers/typesetting controls.\n- Large Strip processing improvements.\n- Webtoon progress and cancellation improvements.\n- Comix resolver and quality diagnostics improvements.\n- Atomic YK settlement and recovery safeguards.\n- Translation history preservation and general regression fixes.\n\nBeta release; physical acceptance tests are still pending.",
-    "version": "0.9.1-beta.17",
+    "release_notes": "Yomu Sekai 0.9.1-beta.18\n\n- Corrige capitulos grandes que podiam parar durante o download perto do limite de arquivos.\n- Corrige jobs que podiam permanecer em running apos falha do subprocesso do pipeline.\n- Adiciona rotacao dos logs de diagnostico para evitar crescimento excessivo.\n\nCorrecoes baseadas em um problema encontrado durante teste fisico da Beta 17 com um capitulo de 205 paginas. Release beta; testes fisicos de aceitacao ainda pendentes.",
+    "version": "0.9.1-beta.18",
     "minimum_version": "0.9.0-beta.45",
-    "published_at": "2026-09-27T21:17:28+00:00",
+    "published_at": "2026-09-28T00:14:51+00:00",
     "package": {
-      "filename": "YomuSekai-0.9.1-beta.17-Setup-x64.exe",
-      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.17/YomuSekai-0.9.1-beta.17-Setup-x64.exe",
-      "sha256": "d3003659cc1f82f2ae5591a750e78c60c695c66a1062b5418112a35fc1d1e1a5",
-      "size": 206312648
+      "filename": "YomuSekai-0.9.1-beta.18-Setup-x64.exe",
+      "url": "https://github.com/HenriquePvAr/YomuSekai-Releases/releases/download/v0.9.1-beta.18/YomuSekai-0.9.1-beta.18-Setup-x64.exe",
+      "sha256": "2fd6054d3d3d2e75251ccaa79a2f8e3ac56b09f5aea12d12bca7a06fd62326b2",
+      "size": 205742375
     }
   },
   "key_id": "beta-2026-10",
-  "signature": "xUe9+FvHd6KNPNsCIgA7u97muPPzJRKzoaj1oLqcD1P45B14dKThrqyIVn6zhwOwrdWdOD3uquBAoHeWjISLBw=="
+  "signature": "7kxJex2oeci5qOdzuH+hnclLebnBlXz8mqFNdpwjFTh1ncs93whzN5OI7JFhsfwO8chnq8Eb0DIl8c4ieXDFDw=="
 }
